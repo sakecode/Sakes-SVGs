@@ -129,12 +129,12 @@
     <linearGradient id="bd" x1="-761.47" y1="347.27" x2="-756.41" y2="338.33" gradientTransform="translate(-523.24 397.2) rotate(120) scale(.8 -.8)" xlink:href="#m"/>
     <linearGradient id="bg" x1="-1553.35" y1="-331.81" x2="-1548.28" y2="-340.75" gradientTransform="translate(-827.26 -922.2) rotate(-120) scale(.8 -.8)" xlink:href="#m"/>
   </defs>
-  <g id="c" data-name="Badge-Layer">
+  <g id="c" data-name="Badge-Light">
     <g id="d" data-name="Badge">
       <path id="g" data-name="rect5035" class="bz" d="m5.03.25h77.94c2.64,0,4.78,1.85,4.78,4.13v22.24c0,2.28-2.14,4.13-4.78,4.13H5.03c-2.64,0-4.78-1.85-4.78-4.13V4.38C.25,2.1,2.39.25,5.03.25Z"/>
     </g>
   </g>
-  <g id="h" data-name="Text">
+  <g id="h" data-name="Text-Light">
     <g id="i" data-name="NixOS">
       <g id="j" data-name="Nix">
         <path id="k" data-name="X" d="m58.95,17.75h-1.47l-1.8,2.72h-.05l-1.74-2.72h-1.59l2.64,3.6v.05l-2.73,3.74h1.47l1.92-2.93h.05l1.92,2.93h1.59l-2.8-3.8v-.05l2.58-3.54Z"/>
